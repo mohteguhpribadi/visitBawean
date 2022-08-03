@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "846649903585",
+    "project_id": "visitbawean-d0de5",
+    "storage_bucket": "visitbawean-d0de5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846649903585:android:1b22eab1b3bf4833e4eaa0",
+        "android_client_info": {
+          "package_name": "com.example.library_on"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846649903585-7g4ggn2l5bg7pafqcbo12eltq9r615hg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZeDI66LhShMtBq04BqQqRwBmNlbZl9TM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846649903585-7g4ggn2l5bg7pafqcbo12eltq9r615hg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
